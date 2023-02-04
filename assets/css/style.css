@@ -1,0 +1,15 @@
+header {
+    background-color: grey;
+}
+
+.foto_principio {
+    justify-content:center;
+    align-items: center;
+    gap:100px;
+    color: grey
+}
+
+
+.foto_principio > h1 {
+    font-size: 100px;
+}
